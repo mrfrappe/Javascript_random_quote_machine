@@ -18,7 +18,7 @@
 
 * **Karol Kawski** - *Initial work* - [mrfrappe](https://github.com/mrfrappe)
 
-See also the list of [contributors](https://github.com/mrfrappe/Javascript_wikipedia_viewer/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/mrfrappe/Javascript_random_quote_machine/contributors) who participated in this project.
 
 ## License
 
