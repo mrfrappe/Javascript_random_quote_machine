@@ -1,21 +1,25 @@
-html {
+html {}
 
-}
 body {
-  text-align: center;
+    text-align: center;
 }
+
 .container {
-  max-width: 600px;
+    max-width: 600px;
 }
+
 .text-div {
-  display: block;
+    display: block;
 }
+
 .buttons-div {
-  display: block;
+    display: block;
 }
+
 .social {
-  float: left;
+    float: left;
 }
+
 .random {
-  float: right;
+    float: right;
 }
